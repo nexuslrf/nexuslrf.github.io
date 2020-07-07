@@ -96,9 +96,9 @@ function stateTrans() {
         d.style.display = ""
         dt.innerHTML = "需在30分钟内进校，确定进校吗？"
     }
-    else if (s.innerHTML == "进校") {
-        getOutSchool(s, s_en, b, d, dt, n);
-    }
+//    else if (s.innerHTML == "进校") {
+//        getOutSchool(s, s_en, b, d, dt, n);
+//    }
 }
 function confirm() {
     document.getElementById("dialog").style.display = 'none';
