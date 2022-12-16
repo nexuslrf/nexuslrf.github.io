@@ -17,8 +17,8 @@ body {
   font-size: 20px;
   line-height: 1.5;
   color: #7f7f7f;
-  color: rgba(255, 255, 255, 0.7);
-  /* background: #fff; */
+  /* color: rgba(255, 255, 255, 0.7); */
+  background: #fff;
   height: 100%;
   position: relative;
   background-size: cover;
